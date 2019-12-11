@@ -1,0 +1,12 @@
+﻿La génération a démarré 2/28/2018 11:41:28 PM.
+     1>Projet "D:\1D\Sem2\POO              Wiem Yaiche\compte rendu\GestionBanque\GestionBanque\GestionBanque.vcxproj" sur le nœud 2 (ClCompile cible(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt banque.cpp
+         banque.cpp
+     1>d:\1d\sem2\poo              wiem yaiche\compte rendu\gestionbanque\gestionbanque\banque.cpp(46): error C2511: 'void banque::retirer(long)' : impossible de trouver la fonction membre surchargée dans 'banque'
+                 d:\1d\sem2\poo              wiem yaiche\compte rendu\gestionbanque\gestionbanque\banque.h(8) : voir la déclaration de 'banque'
+     1>Génération du projet "D:\1D\Sem2\POO              Wiem Yaiche\compte rendu\GestionBanque\GestionBanque\GestionBanque.vcxproj" terminée (ClCompile cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.46
